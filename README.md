@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashik Sarkar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamashiksarkar&label=Profile%20views&color=0e75b6&style=flat" alt="iamashiksarkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imashiksarkar&label=Profile%20views&color=0e75b6&style=flat" alt="iamashiksarkar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imtheashik" target="blank"><img src="https://img.shields.io/twitter/follow/imtheashik?logo=twitter&style=for-the-badge" alt="imtheashik" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imashiksarkar" target="blank"><img src="https://img.shields.io/twitter/follow/imashiksarkar?logo=twitter&style=for-the-badge" alt="imashiksarkar" /></a> </p>
 
 - 🔭 I’m currently working on **Blog Website**
 
