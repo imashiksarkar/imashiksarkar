@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/imashiksarkar" target="blank"><img src="https://img.shields.io/twitter/follow/imashiksarkar?logo=twitter&style=for-the-badge" alt="imashiksarkar" /></a> </p>
 
-- 🔭 I’m currently working on **Blog Website**
+- 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **Node, React**
+- 🌱 I’m currently learning **Redux**
 
 - 📫 How to reach me **ashiksarkar.s18@gmail.com**
 
