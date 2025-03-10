@@ -64,7 +64,7 @@
 ## Social Links
 
 <div align="left">
-<a href="https://linkedin.com/in/imashiksarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imashiksarkar" height="30" width="40" /></a>
-<a href="https://twitter.com/imashiksarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="imashiksarkar" height="30" width="40" /></a>
-<a href="https://fb.com/imashiksarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imashiksarkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imashiksarkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imashiksarkar" height="30" width="40" /></a>
+<a href="https://twitter.com/imashiksarkar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="imashiksarkar" height="30" width="40" /></a>
+<a href="https://fb.com/imashiksarkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imashiksarkar" height="30" width="40" /></a>
 </div>
