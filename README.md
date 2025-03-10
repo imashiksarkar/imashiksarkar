@@ -34,31 +34,37 @@
 
 ## Styling
 
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+</div>
 
 ## Tools
 
+<div align="left">
 <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="githubactions logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+</div>
 
 ## Cloud & DevOps Services
 
+<div align="left">
 <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
 <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+</div>
 
 ## Social Links
 
-<p align="left">
+<div align="left">
 <a href="https://linkedin.com/in/imashiksarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imashiksarkar" height="30" width="40" /></a>
 <a href="https://twitter.com/imashiksarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="imashiksarkar" height="30" width="40" /></a>
 <a href="https://fb.com/imashiksarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imashiksarkar" height="30" width="40" /></a>
-</p>
+</div>
